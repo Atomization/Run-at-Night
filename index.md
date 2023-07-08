@@ -78,4 +78,4 @@
 
 さよなら。
 
-<font color=DarkGray>Edited Jan 13,2022</font>
+<font color=DarkGray>Edited Jan. 13,2022</font>
